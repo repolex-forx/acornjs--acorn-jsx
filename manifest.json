@@ -40,7 +40,9 @@
           "githubUrl": "git+https://github.com/acornjs/acorn.git",
           "source": "build_file:package.json"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/52a64313bb95aba5fbfddd1b0256aa0fce229bb2/chunk-001.nq.gz",
+      "dep": "dep/52a64313bb95aba5fbfddd1b0256aa0fce229bb2.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
