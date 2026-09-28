@@ -1,0 +1,11 @@
+{
+  "org": "acornjs",
+  "repo": "acorn-jsx",
+  "versions": [
+    {
+      "commit": "52a64313bb95aba5fbfddd1b0256aa0fce229bb2",
+      "tag": "5.3.1",
+      "parsed_at": "2026-09-28T08:05:40.079997+00:00"
+    }
+  ]
+}
